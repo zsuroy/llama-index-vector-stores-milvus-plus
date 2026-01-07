@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.9.5.1]
+
+### Changed
+
+- Changed the partition parameter to `milvus_partition_name` in add/delete.
+
 ## [v0.9.4.1]
 
 ### Changed
